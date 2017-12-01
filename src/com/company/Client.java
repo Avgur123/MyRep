@@ -9,6 +9,6 @@ public class Client {
     BufferedReader br; // буферизировнный читатель сокета
     BufferedWriter bw; // буферизированный писатель в сокет
 
-    public Client (String host, )
+    public Client (String host, int port)
 
 }
